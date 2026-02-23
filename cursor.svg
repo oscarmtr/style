@@ -1,0 +1,12 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="12" height="18">
+  <text x="0" y="14"
+        font-family="monospace"
+        font-size="16"
+        fill="#00ff00">
+    &gt;
+  </text>
+  <animate attributeName="opacity"
+           values="1;0;1"
+           dur="1s"
+           repeatCount="indefinite"/>
+</svg>
